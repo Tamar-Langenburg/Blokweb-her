@@ -37,7 +37,7 @@ Ik vind dat ik persoonlijk een flinke vooruitgang heb gemaakt in coderen. Ik moe
 
 **Screenshot(s):**
 
-<img src="fed-def1.png" width="375px"> <img src="fed-def2.png" width="375px"> <img src="fed-def3.png" width="375px"> <img src="fed-def4.png" width="375px">
+<img src="images/fed-def1.png" width="375px"> <img src="images/fed-def2.png" width="375px"> <img src="images/fed-def3.png" width="375px"> <img src="images/fed-def4.png" width="375px">
 
 
 
@@ -49,7 +49,7 @@ Ik ben verder gegaan met de detailpagina. Ik heb vooral dingen uit geprobeert me
 **Screenshot(s):**
 
 <img src="images/screenshot3.png" width="375px"> <img src="images/screenshotversie3.png" width="375px">
-<img src="screenshotversie3.png" width="375px">
+<img src="images/screenshotversie3.png" width="375px">
 
 
 ### Agenda voor meeting
